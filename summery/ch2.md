@@ -194,3 +194,7 @@ Also partial sort (heap sort) uses this tree to sort n elements in `O(n log n)`
 #### Hash Tables
 
 but we do not recommend using it in programming contests unless absolutely necessary.
+
+Can be used as `STL unordered_map` available in `C++ 11`
+
+but we do not recommend using it in programming contests unless absolutely necessary.
