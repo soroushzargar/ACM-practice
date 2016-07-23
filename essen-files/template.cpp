@@ -30,7 +30,7 @@ const int inf = 1e9;
 int main() {
 	ios::sync_with_stdio(false);
 
-
+	$caret_start$
 
 	return 0;
 }
